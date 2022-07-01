@@ -1,0 +1,40 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+.main {
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height: 400px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.main button {
+    width: 200px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#count {
+    background-color: lightgreen;
+}
+
+
+
+#dec {
+    background-color: red;
+
+}
+
+
+#save {
+    background-color:whitesmoke;
+
+}
